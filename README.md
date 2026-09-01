@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes daily operational data from the **Unaccompanied Alien Children (UAC) Program** to evaluate healthcare system capacity, care load, and the balance between inflows and outflows across the CBP and HHS care pipeline.
+This project analyzes daily operational data from the **Unaccompanied Alien Children (UAC) Program** to evaluate healthcare system capacity, care load, and the balance between inflows and outflows across the **U.S. Customs and Border Protection (CBP)** and **Department of Health and Human Services (HHS)** care pipeline.
 
 The analysis covers **1,075 calendar days from January 12, 2023 to December 21, 2025**. Operational data is transformed into healthcare capacity metrics, time-series indicators, backlog measures, volatility measures, and stress signals to identify periods of elevated and sustained system pressure.
 
